@@ -29,3 +29,5 @@ Please check the [contribution guidelines](#) before submitting contributions.
 Want to receive the latest updates and news about heatmap.js? 
 
 There is a [mailing list](http://eepurl.com/0mmV5). No spam, just news and important updates.
+
+// ARUN SESHAN
